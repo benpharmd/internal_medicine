@@ -1,24 +1,30 @@
-# internal_medicine
+# Internal Medicine Pharmacology
 disease states and their corresponding medication therapies
 
+## Asthma 
 
-## Type 2 Diabetes
+## Cholesterol 
 
+## COPD 
 
-## Asthma Pharmacotherapy
+## Diabetes, Type 1
 
+## Diabetes, Type 2
 
-## COPD Pharmacotherapy
+## Heart Failure 
 
+## Hypertension 
 
-## Heart Failure Pharmacotherapy
-
-
-## Hypertension Pharmacotherapy
-
-
-## Smoking Cessation Pharmacotherapy
+## Smoking Cessation 
 
 
-## Cholesterol Pharmacotherapy
+
+
+
+
+
+
+
+
+
 
